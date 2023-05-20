@@ -118,16 +118,16 @@ net = setNodeLineWidth(net, values, categories, classname)
 <h3>Arguments</h3>
 <ul>
 <li><code>net</code>: Networkvisualizer object created with function <a href="networkvisualizer.html">networkvisualizer</a>.</li>
-<li><code>k</code>: A scalar value specifying the size of all nodes.</li>
-<li><code>values</code>: A scalar value or a cell array containing the node sizes to be set.</li>
+<li><code>k</code>: A scalar value specifying the line width of all nodes.</li>
+<li><code>values</code>: A scalar value or a cell array containing the node line width to be set.</li>
 <li><code>categories</code>: A vector specifying the class categories which the modifications will apply.</li>
 <li><code>classname</code>: A string that specifies which node class the given <code>categories</code> correspond to.</li>
 </ul>
 <h3>Description</h3>
 <ul>
-<li><code>net = setNodeLineWidth(net, k)</code> sets the size of all node to <code>k</code>.</li>
-<li><code>net = setNodeLineWidth(net, values)</code> sets the line width of every node <code>i</code> to the size provided in <code>values{i}</code>. Thus, the <code>values</code> should be a vector of length equal to the number of nodes.</li>
-<li><code>net = setNodeLineWidth(net, values, categories)</code> uses the node class categories in <code>categories</code> to specify which nodes to be resized. For example, <code>setNodeLineWidth(net, {10, 12}, {'A', 'B'})</code> sets the line width of nodes with category <code>'A'</code> to <code>10</code> and nodes with category <code>'B'</code> to <code>12</code>. This type of specification allows conditional formatting of nodes with respect to the categories provided. By default, it is assumed that the categories correspond to the first node class added by the <a href="addNodeClass.html">addNodeClass</a> function.</li>
+<li><code>net = setNodeLineWidth(net, k)</code> sets the line width of all node to <code>k</code>.</li>
+<li><code>net = setNodeLineWidth(net, values)</code> sets the line width of every node <code>i</code> to the line width provided in <code>values{i}</code>. Thus, the <code>values</code> should be a vector of length equal to the number of nodes.</li>
+<li><code>net = setNodeLineWidth(net, values, categories)</code> uses the node class categories in <code>categories</code> to specify which nodes to be modified. For example, <code>setNodeLineWidth(net, {10, 12}, {'A', 'B'})</code> sets the line width of nodes with category <code>'A'</code> to <code>10</code> and nodes with category <code>'B'</code> to <code>12</code>. This type of specification allows conditional formatting of nodes with respect to the categories provided. By default, it is assumed that the categories correspond to the first node class added by the <a href="addNodeClass.html">addNodeClass</a> function.</li>
 <li><code>net = setNodeLineWidth(net, values, categories, classname)</code> uses the node class with name <code>classname</code> for the provided categories.</li>
 </ul>
 <h3>Examples</h3>
