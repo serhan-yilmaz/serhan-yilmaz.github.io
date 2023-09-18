@@ -34,7 +34,9 @@ With that, the first principle and a disclaimer to follow:
 - Do not tolerate, trust or accept those who would use and harm others for selfish reasons
 - If retaliation is warranted, make sure magnitude is proportional to, and not exceed the intended harm or actual harm (whichever is greater)
 - (Try to) Protect those who are in need, who are harmed by others for selfish reasons. Particularly those who lack the power to protect themselves
+  
   --> Only if you can, don't be a hero. See principle of self-value, you are not responsible for other people's happiness. 
+  
   --> But remember the poem: ["First they came for..."](https://en.wikipedia.org/wiki/First_they_came_...)
 
 #### Principle of Loyalty
@@ -82,10 +84,13 @@ Take responsibility for your actions.
 -- Principle of no regrets (under happiness)
 
 -- Principle of optimism, positivity
+
 -- Principle of trust? (do not assume ill-intent unless warranted)
 
 -- Principle of emotionality
----> Accept that humans behave emotionally as much as they do logically. 
+
+---> Accept that humans behave emotionally as much as they do logically.
+
 ---> Learn the necessary skills to navigate in both landscapes  
 
 -- Principle of dependability
@@ -109,8 +114,11 @@ Take responsibility for your actions.
 -- Determine your boundaries and convey them clearly
 
 -- Principle of perspective
+
 ---> Acknowledge the limits of your knowledge, consider alternative perspectives
+
 ---> Don't assume what you believe necessarily reflects the reality
+
 ---> Realize that no one can predict the future reliably long term
 
 -- Have the humility to accept when you are wrong
