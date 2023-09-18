@@ -6,7 +6,7 @@ The goal of this writing is to summarize a set of rules that I believe to be imp
 
 Overall, this is meant to be a practical guide, aiming for what is best personally and "what can help", rather than prescribing morals on "what should" and what is best for the society. 
 
-To explain my view with an analogy: Principles serve as a compass that, in the absence of light and when faced with uncertainty, can help find the right way without getting lost.
+To explain my view with an analogy: Principles serve as a compass that, in the absence of light and when faced with uncertainty, can help find the right way, without getting lost.
 
 With that in mind, the first principle and a disclaimer to follow: 
 
