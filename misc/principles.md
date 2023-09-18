@@ -61,9 +61,9 @@ With that, the first principle and a disclaimer to follow:
 - Walk away, if a relationship becomes consistently harmful 
 - Check out [attachment styles](https://en.m.wikipedia.org/wiki/Attachment_in_adults)
 
-#### Principle of Sex
+#### Principle of Intimacy
 
-- Aim for consensual, mutual pleasure
+- Aim for consensual, mutual pleasure in sexual relations
 - Be safe first, then be open and playful
 - Don't underestimate the effect of mentality and emotionality 
 - Don't assume porn and erotica reflect reality 
