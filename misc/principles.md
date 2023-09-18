@@ -75,6 +75,7 @@ With that, the first principle and a disclaimer to follow:
 ### Closing Remarks
 
 % ================= Notes etc
+
 Take responsibility for your actions. 
 
 === compendium of life principles
