@@ -56,7 +56,7 @@ With that, the first principle and a disclaimer to follow:
 
 #### Principle of Attachment
 
-- Be capable of accepting losses
+- Be capable of accepting loss
 - Don't be afraid to attach, it doesn't have to be permanent
 - Walk away, if a relationship becomes consistently harmful 
 - Check out [attachment styles](https://en.m.wikipedia.org/wiki/Attachment_in_adults)
