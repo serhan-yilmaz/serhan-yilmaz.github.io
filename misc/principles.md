@@ -34,10 +34,8 @@ With that, the first principle and a disclaimer to follow:
 - Do not tolerate, trust or accept those who would use and harm others for selfish reasons
 - If retaliation is warranted, make sure magnitude is proportional to, and not exceed the intended harm or actual harm (whichever is greater)
 - (Try to) Protect those who are in need, who are harmed by others for selfish reasons. Particularly those who lack the power to protect themselves
-  
-  --> Only if you can, don't be a hero. See principle of self-value, you are not responsible for other people's happiness. 
-  
-  --> But remember the poem: ["First they came for..."](https://en.wikipedia.org/wiki/First_they_came_...)
+    --> Only if you can, don't be a hero. See principle of self-value, you are not responsible for other people's happiness. 
+    --> But remember the poem: ["First they came for..."](https://en.wikipedia.org/wiki/First_they_came_...)
 
 #### Principle of Loyalty
 
