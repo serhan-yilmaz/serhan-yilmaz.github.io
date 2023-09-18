@@ -4,7 +4,12 @@
 
 The goal of this writing is to summarize a set of rules that I believe to be important and beneficial to follow while making personal decisions. Most are obvious principles, but they are sometimes overlooked. So, I believe it is helpful to remember and repeat what's important. 
 
-With that, the first principle and a disclaimer to follow: 
+Overall, this is meant to be a practical guide, aiming for what is best personally and "what can help", rather than prescribing morals on "what should" and what is best for the society. 
+
+To explain my view with an analogy: Principles serve as a compass that, in the absence of light and when faced with uncertainty, can help find the right way without getting lost.
+
+With that in mind, the first principle and a disclaimer to follow: 
+
 
 ##### Principle of Advice
 
@@ -121,3 +126,13 @@ Take responsibility for your actions.
 ---> Realize that no one can predict the future reliably long term
 
 -- Have the humility to accept when you are wrong
+
+-- Aim to fullfil needs first
+
+-- Treat others how you want to be treated
+
+-- Be cautiously optimistic
+
+-- Communication?
+
+-- List the rules of reciprocity clearly
